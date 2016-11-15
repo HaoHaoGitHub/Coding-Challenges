@@ -1,8 +1,5 @@
 Name: Hao Chen  
 Email: chenh15@rpi.edu
-
-Take-home challenge 
-I use C++11 for this challenge.
 =======================================================================================
 
 1. Steps necessary to run my program
@@ -122,12 +119,6 @@ The reason I use this structure is that multimap have log(n) search time for key
    9. If a book has no description or title
 
 
-
-
-I appreciate you taking the time to review my materials.
- 
-Hao Chen 
-Oct 11, 2016
 
    
    
